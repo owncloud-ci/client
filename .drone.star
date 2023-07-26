@@ -9,10 +9,6 @@ def main(ctx):
   ]
 
   # image's base version
-  # For example, in fedora's Dockerfile;
-  #   FROM ubuntu:22.04
-  # then,
-  #   'fedora': '22.04'
   base_img_tag = {
     'fedora': ['fedora', '38'],
   }
