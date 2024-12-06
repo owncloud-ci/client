@@ -10,7 +10,7 @@ def main(ctx):
 
   # image's base version
   base_img_tag = {
-    'fedora': ['fedora', '39'],
+    'fedora': ['fedora', '41'],
   }
 
   config = {
